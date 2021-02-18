@@ -1,0 +1,29 @@
+/* font-family:Abel */
+@font-face{
+    font-family: Abel;
+    src:url(../Abel\,Anton\,Josefin_Sans\,Lexend_Deca\,Livvic/Abel/Abel-Regular.ttf);
+}
+
+/* font-family: Anton */
+@font-face{
+    font-family: Anton;
+    src:url(../Abel\,Anton\,Josefin_Sans\,Lexend_Deca\,Livvic/Anton/Anton-Regular.ttf);
+}
+
+/* font-family: Josefin_Sans */
+@font-face{
+    font-family: Josefin_Sans;
+    src:url(../Abel\,Anton\,Josefin_Sans\,Lexend_Deca\,Livvic/Josefin_Sans/static/JosefinSans-Regular.ttf);
+}
+
+/* font-family: Lexend_Deca */
+@font-face{
+    font-family: Lexend_Deca;
+    src:url(../Abel\,Anton\,Josefin_Sans\,Lexend_Deca\,Livvic/Lexend_Deca/Lexend_Deca-Regular.ttf);
+}
+
+/* font-family: Livvic */
+@font-face{
+    font-family: Lexend_Deca;
+    src:url(../Abel\,Anton\,Josefin_Sans\,Lexend_Deca\,Livvic/Livvic/Livvic-Regular.ttf);
+}
